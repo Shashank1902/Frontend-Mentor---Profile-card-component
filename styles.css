@@ -86,6 +86,10 @@ body {
     margin-bottom: 20px;
 }
 
+.hr {
+    border: 1px solid hsla(0, 0%, 59%, 0.200);
+}
+
 .social {
     display: flex;
     /* justify-content: space-evenly; */
