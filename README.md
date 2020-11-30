@@ -1,2 +1,2 @@
 # Live Website
-[Frontend-Mentor---Social-proof-section](https://frontend-mentor-profile-card-component-mocha.vercel.app/)
+[Frontend-Mentor---Profile-card-component](https://frontend-mentor-profile-card-component-mocha.vercel.app/)
